@@ -8,7 +8,7 @@ variable "awsprops" {
     subnet = "subnet-0dedcea0b59bdb851"
     publicip = true
     keyname = "ap-mumbai-2025"
-    secgroupname = "linux-security-group"
+    secgroupname = "devops-security-group"
   }
   }
 

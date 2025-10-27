@@ -4,7 +4,7 @@ variable "awsprops" {
     region = "ap-south-1"
     vpc = "vpc-001b47a0834dc0c4a"
     ami = "ami-06fa3f12191aa3337"
-    itype = "t2.micro"
+    itype = "t3.micro"
     subnet = "subnet-0dedcea0b59bdb851"
     publicip = true
     keyname = "ap-mumbai-2025"
